@@ -4,4 +4,5 @@ Basic [Pokeapi](https://pokeapi.co) json handler in [Flutter](https://flutter.de
 
 ## Screenshots
 
-![App Screenshot]()
+![App Screenshot](https://github.com/Andreogit/pokeapihandle/blob/main/screen1.png?raw=true)
+![App Screenshot](https://github.com/Andreogit/pokeapihandle/blob/main/screen2.png?raw=true)
